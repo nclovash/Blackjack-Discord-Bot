@@ -132,4 +132,4 @@ async def blackjack(ctx):
 		await ctx.send(dealerHand)
 		await ctx.send(f'\nPush')
 
-client.run('NzQ2MTYyNDA0MzA3NTAxMDY3.Xz8T5A.t6jl30Heva7WO8rUdwqO8VrYx30')
+client.run('***Token hidden***')
